@@ -55,7 +55,24 @@ pip install -r requirements.txt
 ```
 
 Then open the notebook using Jupyter Notebook or Google Colab.
+## Running the Project
 
+The complete experiment is available in two formats:
+
+- `finalDatascienceproject.ipynb` – Jupyter Notebook version.
+- `src/datascienceproject.py` – Python script version that runs the full experiment.
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the script:
+
+```bash
+python src/datascienceproject.py
+```
 ## Author
 
 Sewar Halifa
